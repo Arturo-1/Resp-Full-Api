@@ -11,4 +11,5 @@ app.use('/api', rutas) //se indica que las solicitudes que lleguen las mande al 
 
 app.listen(8080, () => {
     console.log('Servidor escuchando puerto 8080')
+    
 })
